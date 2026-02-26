@@ -2,15 +2,18 @@
 
 int main(){
 
+
   // ===== CARTA 1 =====
     char estado1, codigo1[5], nomecidade1[50];
     int populacao1, pontosturisticos1;
     float area1, pib1;
 
+
   // =====CARTA 2 =====
   char estado2, codigo2[5], nomecidade2[50];
   int populacao2,pontosturisticos2;
   float area2, pib2;
+
 
   // ===========================
   // ENTRADAS DE DADOS - CARTA 1
@@ -39,6 +42,7 @@ int main(){
   printf("Número de pontos turisticos: ");
   scanf("%d", &pontosturisticos1);
 
+
   //==========================
   // Entrada de dados carta 2
   //==========================
@@ -66,7 +70,7 @@ int main(){
   printf("Número de pontos turísticos: ");
   scanf("%d", &pontosturisticos2);
 
-
+  
   //==========================
   //Exibição das cartas
   //==========================
