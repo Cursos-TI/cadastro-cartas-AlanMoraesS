@@ -92,6 +92,11 @@ int main(){
   printf("Área: %.2f km²\n", area1);
   printf("PIB: %.2f\n", pib1);
   printf("Pontos turísticos: %d\n", pontosturisticos1);
+
+  //============================
+  //ADIÇÃO DO NÍVEL AVENTUREIRO NA CARTA 1
+  //============================
+
   printf("Densidade Populacional: %.2f hab/km²\n", densidade1);
   printf("PIB per Capita: %.2f\n", pib_per_capita1);
 
@@ -103,6 +108,11 @@ int main(){
   printf("Área: %.2f km²\n", area2);
   printf("PIB: %.2f\n", pib2);
   printf("Pontos turísticos: %d\n", pontosturisticos2);
+
+  //============================
+  //ADIÇÃO DO NÍVEL AVENTUREIRO NA CARTA 2
+  //============================
+
   printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
   printf("PIB per Capita: %.2f\n", pib_per_capita2);
 
